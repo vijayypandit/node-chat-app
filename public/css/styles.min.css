@@ -113,18 +113,18 @@ button:disabled {
 
 .message {
     margin-bottom: 20px;
-
+    font-size: 28px;
 }
 
 .message__name {
     font-weight: 600;
-    font-size: 14px;
+    font-size: 24px;
     margin-right: 8px
 }
 
 .message__meta {
     color: #777;
-    font-size: 14px
+    font-size: 20px
 }
 
 .message a {
